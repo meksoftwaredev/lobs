@@ -1,24 +1,24 @@
 function odevgit() {
-    let url = "file:///C:/Users/mekso/Desktop/LOBS/UYGULAMA/odevler.html";
+    let url = "odevler.html";
     window.location.href = url;
 }
 
 function duyurugit() {
-    let url = "file:///C:/Users/mekso/Desktop/LOBS/UYGULAMA/duyurular.html";
+    let url = "duyurular.html";
     window.location.href = url;
 }
 
 function degerlendirgit() {
-    let url = "file:///C:/Users/mekso/Desktop/LOBS/UYGULAMA/degerlendir.html";
+    let url = "degerlendir.html";
     window.location.href = url;
 }
 
 function ekogelergit() {
-    let url = "file:///C:/Users/mekso/Desktop/LOBS/UYGULAMA/dahafazla.html";
+    let url = "dahafazla.html";
     window.location.href = url;
 }
 
 function anasayfadon() {
-    let url = "file:///C:/Users/mekso/Desktop/LOBS/UYGULAMA/index.html";
+    let url = "index.html";
     window.location.href = url;
 }
