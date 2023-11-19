@@ -1,24 +1,24 @@
 function odevgit() {
-    let url = "odevler.html";
+    let url = "https://meksoftwaredev.github.io/lobs/odevler.html";
     window.location.href = url;
 }
 
 function duyurugit() {
-    let url = "duyurular.html";
+    let url = "https://meksoftwaredev.github.io/lobs/duyurular.html";
     window.location.href = url;
 }
 
 function degerlendirgit() {
-    let url = "degerlendir.html";
+    let url = "https://meksoftwaredev.github.io/lobs/degerlendir.html";
     window.location.href = url;
 }
 
 function ekogelergit() {
-    let url = "dahafazla.html";
+    let url = "https://meksoftwaredev.github.io/lobs/dahafazla.html";
     window.location.href = url;
 }
 
 function anasayfadon() {
-    let url = "index.html";
+    let url = "https://meksoftwaredev.github.io/lobs/index.html";
     window.location.href = url;
 }
