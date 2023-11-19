@@ -250,7 +250,7 @@ html, body {
     font-style: italic;
     font-weight: bold;
     letter-spacing: 0.5vw;
-    font-size: 6vw;
+    font-size: 3.5vw;
     border-bottom: 1px solid gray;
 }
 
@@ -286,7 +286,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5vw;
+    font-size: 3vw;
     border-bottom: 1px solid gray;
     overflow-x: hidden;
     overflow-y: auto;
@@ -301,7 +301,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5vw;
+    font-size: 3vw;
     overflow-x: hidden;
     overflow-y: auto;
 }
@@ -315,7 +315,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5vw;
+    font-size: 3vw;
     overflow-x: hidden;
     overflow-y: auto;
 }
