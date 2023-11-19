@@ -23,7 +23,7 @@ html, body {
     overflow-y: hidden;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
-    scroll-margin-left: 100vb;
+    scroll-margin-left: 100vw;
 }
 
 .durumekranı {
@@ -69,7 +69,7 @@ html, body {
     content: 'Aktif Ödev Yok';
     position: relative;
     text-align: center;
-    font-size: 5vb;
+    font-size: 5vw;
     font-style: italic;
     font-weight: bold;
     letter-spacing: 0.3vw;
@@ -96,7 +96,7 @@ html, body {
     content: 'Aktif Duyuru Yok';
     position: relative;
     text-align: center;
-    font-size: 5vb;
+    font-size: 5vw;
     font-style: italic;
     font-weight: bold;
     letter-spacing: 0.3vw;
@@ -131,7 +131,7 @@ html, body {
     content: 'Pasif Ödev Yok';
     position: relative;
     text-align: center;
-    font-size: 5vb;
+    font-size: 5vw;
     font-style: italic;
     font-weight: bold;
     letter-spacing: 0.3vw;
@@ -157,7 +157,7 @@ html, body {
     content: 'Pasif Duyuru Yok';
     position: relative;
     text-align: center;
-    font-size: 5vb;
+    font-size: 5vw;
     font-style: italic;
     font-weight: bold;
     letter-spacing: 0.3vw;
@@ -250,7 +250,7 @@ html, body {
     font-style: italic;
     font-weight: bold;
     letter-spacing: 0.5vw;
-    font-size: 6vb;
+    font-size: 6vw;
     border-bottom: 1px solid gray;
 }
 
@@ -286,8 +286,10 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5vb;
+    font-size: 5vw;
     border-bottom: 1px solid gray;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 .odev div p:nth-child(2) {
@@ -299,7 +301,9 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5vb;
+    font-size: 5vw;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 .odev div p:nth-child(3) {
@@ -311,5 +315,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5vb;
+    font-size: 5vw;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
