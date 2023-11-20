@@ -135,6 +135,7 @@ html, body {
     font-style: italic;
     font-weight: bold;
     letter-spacing: 0.3vw;
+    display:none;
 }
 
 
