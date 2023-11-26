@@ -1,0 +1,626 @@
+@import "reset.css";
+
+
+@media (max-width: 50px) {
+    .odevbaslik {
+        font-size: 7vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 5.5vw;
+    }
+}
+
+@media (min-width: 50px) and (max-width: 100px) {
+    .odevbaslik {
+        font-size: 7vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 5.5vw;
+    }
+}
+
+@media (min-width: 100px) and (max-width: 150px) {
+    .odevbaslik {
+        font-size: 6.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 5.4vw;
+    }
+}
+
+@media (min-width: 150px) and (max-width: 200px) {
+    .odevbaslik {
+        font-size: 6.6vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 5vw;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 250px) {
+    .odevbaslik {
+        font-size: 6.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 5vw;
+    }
+}
+
+@media (min-width: 250px) and (max-width: 300px) {
+    .odevbaslik {
+        font-size: 5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 350px) {
+    .odevbaslik {
+        font-size: 6vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 400px) {
+    .odevbaslik {
+        font-size: 5.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+    .odevbaslik {
+        font-size: 6vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 4.5vw;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 500px) {
+    .odevbaslik {
+        font-size: 5.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 550px) {
+    .odevbaslik {
+        font-size: 5.2vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 3.8vw;
+    }
+}
+
+@media (min-width: 550px) and (max-width: 600px) {
+    .odevbaslik {
+        font-size: 5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 650px) {
+    .odevbaslik {
+        font-size: 3.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 2.3vw;
+    }
+}
+
+@media (min-width: 650px) and (max-width: 700px) {
+    .odevbaslik {
+        font-size: 4.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 3.3vw;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 750px) {
+    .odevbaslik {
+        font-size: 4.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 3.8vw;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 800px) {
+    .odevbaslik {
+        font-size: 4.7vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+    .odevbaslik {
+        font-size: 5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 850px) and (max-width: 900px) {
+    .odevbaslik {
+        font-size: 4.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 950px) {
+    .odevbaslik {
+        font-size: 4.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 950px) {
+    .odevbaslik {
+        font-size: 4.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 950px) and (max-width: 1000px) {
+    .odevbaslik {
+        font-size: 4.3vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1050px) {
+    .odevbaslik {
+        font-size: 4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 1050px) and (max-width: 1100px) {
+    .odevbaslik {
+        font-size: 4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1150px) {
+    .odevbaslik {
+        font-size: 3vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 1.75vw;
+    }
+}
+
+@media (min-width: 1150px) and (max-width: 1200px) {
+    .odevbaslik {
+        font-size: 3vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 1.5vw;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1250px) {
+    .odevbaslik {
+        font-size: 3.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 1.75vw;
+    }
+}
+
+@media (min-width: 1250px) and (max-width: 1300px) {
+    .odevbaslik {
+        font-size: 2.25vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 1.75vw;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1350px) {
+    .odevbaslik {
+        font-size: 2.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 1.5vw;
+    }
+}
+
+@media (min-width: 1350px) and (max-width: 1400px) {
+    .odevbaslik {
+        font-size: 2.75vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular {
+        font-size: 1.25vw;
+    }
+}
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.temelekran {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+.ekran {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+    overflow-y: hidden;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+}
+
+.durumblok {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+}
+
+.durumblok:nth-child(1) {
+    left: 0;
+}
+
+.durumblok:nth-child(2) {
+    left: 100%;
+}
+
+.odevblok {
+    position: absolute;
+    top: 1%;
+    width: 98%;
+    height: 59%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+.odev {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: darkgray;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+}
+
+.odevbaslik {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border-bottom: 1px solid gray;
+    box-sizing: content-box;
+    letter-spacing: 0.3vw;
+}
+
+.odevaciklama {
+    position: absolute;
+    top: 15%;
+    left: 0;
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border-bottom: 1px solid gray;
+    letter-spacing: 0.3vw;
+    text-align: center;
+}
+
+.odevcevap {
+    position: absolute;
+    top: 75%;
+    left: 0;
+    width: 100%;
+    height: 12.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    letter-spacing: 0.3vw;
+    text-align: center;
+}
+
+.odevteslim {
+    position: absolute;
+    top: 87.5%;
+    left: 0;
+    width: 100%;
+    height: 12.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    letter-spacing: 0.3vw;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.duyurublok {
+    position: absolute;
+    top: 61%;
+    width: 98%;
+    height: 25%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+
+}
+
+.duyuru {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    background-color: darkgray;
+}
+
+
+
+
+
+
+
+
+
+
+.ekran:nth-child(1) {
+}
+
+
+
+
+
+.ekran:nth-child(2) {
+}
+
+.odevlerblok {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 85%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+.odevler {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 98%;
+    height: 60%;
+    display: flex;
+    background-color: darkgray;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    border-radius: 10px;
+    margin-top: 3%;
+    border: 1px solid gray;
+}
+
+.odevler:nth-child(1) {
+    margin-top: 0;
+}
+
+
+.ekran:nth-child(3) {
+}
+
+
+.duyurularblok {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 85%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+.duyurular {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 98%;
+    height: 50%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: darkgray;
+    margin-top: 5%;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.duyurular:nth-child(1) {
+    margin-top: 0;
+}
+
+.ekran:nth-child(4) {
+}
+
+.altblok {
+    position: fixed;
+    bottom: 1%;
+    width: 100%;
+    height: 12%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.simge {
+    position: relative;
+    width: 20%;
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+}
+
+.simge:nth-child(1) {
+    background-image: url('Anasayfa.jpg');
+}
+
+.simge:nth-child(2) {
+    background-image: url('Ödev.jpg');
+}
+
+.simge:nth-child(3) {
+    background-image: url('Duyuru.jpg');
+}
+
+.simge:nth-child(4) {
+    background-image: url('Ek.jpg');
+}
