@@ -418,6 +418,15 @@
         // Initialize Firebase
         const app = initializeApp(firebaseConfig);
         const analytics = getAnalytics(app);
+
+        // Bildirim içeriğini ayarlayın
+const notification = {
+  title: "Yeni Bildirim",
+  body: "Bu bir bildirimdir.",
+};
+
+// Bildirimi gönderin
+firebase.messaging().send(notification);
       </script>
 </body>
 </html>
