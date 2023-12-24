@@ -1,0 +1,770 @@
+@import "reset.css";
+
+
+@media (max-width: 50px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 7vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 5.5vw;
+    }
+}
+
+@media (min-width: 50px) and (max-width: 100px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 7vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 5.5vw;
+    }
+}
+
+@media (min-width: 100px) and (max-width: 150px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 6.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 5.4vw;
+    }
+}
+
+@media (min-width: 150px) and (max-width: 200px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 6.6vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 5vw;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 250px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 6.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 5vw;
+    }
+}
+
+@media (min-width: 250px) and (max-width: 300px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 350px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 6vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 400px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 5.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 6vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama{
+        font-size: 4.5vw;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 500px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 5.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 550px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 5.2vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 3.8vw;
+    }
+}
+
+@media (min-width: 550px) and (max-width: 600px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 650px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 3.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 2.3vw;
+    }
+}
+
+@media (min-width: 650px) and (max-width: 700px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 3.3vw;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 750px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4.8vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 3.8vw;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 800px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4.7vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 850px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 850px) and (max-width: 900px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 950px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 950px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4.4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 950px) and (max-width: 1000px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4.3vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1050px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 1050px) and (max-width: 1100px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 4vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 2.8vw;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1150px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 3vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 1.75vw;
+    }
+}
+
+@media (min-width: 1150px) and (max-width: 1200px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 3vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 1.5vw;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1250px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 3.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 1.75vw;
+    }
+}
+
+@media (min-width: 1250px) and (max-width: 1300px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 2.25vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 1.75vw;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1350px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 2.5vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 1.5vw;
+    }
+}
+
+@media (min-width: 1350px) and (max-width: 1400px) {
+    .odevbaslik, .s1, .secenek, .gönder, .notbaslik {
+        font-size: 2.75vw;
+    }
+
+    .odevaciklama, .odevcevap, .odevteslim, .duyuru, .duyurular, .aciklama, .notaciklama {
+        font-size: 1.25vw;
+    }
+}
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.anaekran {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+    scroll-margin-top: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #DCDCDC;
+    overflow: hidden;
+}
+
+.secenekler {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 85%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.s1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 98%;
+    height: 22%;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    background-color: gray;
+    border-radius: 10px;
+    letter-spacing: 0.3vw;
+}
+
+.duyurularblok {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    width: 98%;
+    height: 85%;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+    scroll-margin-top: 100%;
+}
+
+
+.duyurular {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 43%;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    margin-top: 0%;
+    border-radius: 25px;
+}
+
+
+.odevlerblok {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    width: 98%;
+    height: 85%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+    scroll-margin-top: 100%;
+}
+
+
+.odevler {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-stop: always;
+    scroll-snap-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: darkgray;
+    border-radius: 25px;
+}
+
+
+
+.duyurublok {
+    position: absolute;
+    top: 78%;
+    left: 1%;
+    width: 98%;
+    height: 21%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+    scroll-margin-top: 100%;
+}
+
+.duyuru {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+}
+
+.odevblok {
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    width: 98%;
+    height: 75%;
+    background-color: darkgray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+    scroll-margin-top: 100%;
+}
+
+.odev {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    scroll-snap-stop: always;
+    scroll-snap-align: center;
+}
+
+.odevbaslik {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 0.3vw;
+}
+
+.odevaciklama {
+    position: absolute;
+    top: 15%;
+    left: 0;
+    width: 100%;
+    height: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.odevcevap {
+    position: absolute;
+    top: 80%;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.odevteslim {
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.durumblok {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 87%;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.durumblok:nth-child(1) {
+    left: 0;
+}
+
+.durumblok:nth-child(2) {
+    left: 100%;
+}
+
+
+
+.ekran {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    scroll-snap-type: x mandatory;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.ekran:nth-child(1) {
+}
+
+.ekran:nth-child(2) {
+}
+
+.ekran:nth-child(3) {
+}
+
+.ekran:nth-child(4) {
+}
+
+
+
+.ab {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 13%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 1;
+}
+
+.b1 {
+    position: relative;
+    width: 20%;
+    height: 90%;
+    border-radius: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.b1:nth-child(1) {
+    background-image: url("Anasayfa.jpg");
+}
+
+.b1:nth-child(2) {
+    background-image: url("Ödev.jpg");
+}
+
+.b1:nth-child(3) {
+    background-image: url("Duyuru.jpg");
+}
+
+.b1:nth-child(4) {
+    background-image: url("Ek.jpg");
+}
+
+
+
+
+.degerlendir {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    left: -100%;
+    z-index: 1;
+    transition-property: all;
+    transition-duration: 0.5s;
+    background-color: darkgray;
+}
+
+.degerlendirform {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.secenek {
+    position: absolute;
+    top: 5%;
+    width: 90%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+option {
+    position: relative;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.aciklama {
+    position: absolute;
+    top: 25%;
+    width: 90%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding-top: 5%;
+}
+
+.gönder {
+    position: absolute;
+    top: 70%;
+    width: 80%;
+    height: 10%;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+.cik {
+    position: absolute;
+    top: 88%;
+    width: 25%;
+    height: 10%;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid gray;
+    background-image: url("Çık.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sinavnotlari {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    left: -100%;
+    z-index: 1;
+    transition-property: all;
+    transition-duration: 0.5s;
+    background-color: darkgray;
+}
+
+.notlarblok {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    width: 98%;
+    height: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-type: y mandatory;
+    border-radius: 10px;
+}
+
+.not {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.notbaslik {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.notaciklama {
+    position: absolute;
+    top: 15%;
+    left: 0;
+    width: 100%;
+    height: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
