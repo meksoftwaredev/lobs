@@ -767,6 +767,8 @@ option {
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
+    white-space: nowrap;
+    overflow-x: hidden;
     overflow-y: auto;
-    overflow-x: none;
+    text-overflow: ellipsis;
 }
