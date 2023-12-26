@@ -765,6 +765,7 @@ option {
     display: flex;
     justify-content: center;
     align-items: center;
+    white-space: nowrap;
     overflow-x: hidden;
     overflow-y: auto;
 }
