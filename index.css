@@ -767,6 +767,4 @@ option {
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
-    overflow-x: hidden;
-    overflow-y: auto;
 }
