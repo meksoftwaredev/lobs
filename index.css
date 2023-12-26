@@ -765,6 +765,10 @@ option {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow-x: auto;
+    overflow-x: hidden;
     overflow-y: auto;
+}
+
+.notaciklama li {
+    margin-top: 2.5%;
 }
